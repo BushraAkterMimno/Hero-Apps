@@ -12,7 +12,7 @@ const Root = () => {
     if (navigation.state === "loading") {
       setLoading(true);
     } else {
-      // route load শেষ হলে ২ সেকেন্ড spinner delay
+      
       const timer = setTimeout(() => setLoading(false), 2000);
       return () => clearTimeout(timer);
     }
