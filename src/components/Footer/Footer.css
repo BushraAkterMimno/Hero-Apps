@@ -1,0 +1,11 @@
+h5{
+    color: #D1D5DB;
+    font-weight: 500;
+    font-size: 20px
+}
+footer ul li a{
+    color: #D1D5DB;
+}
+ul a:hover {
+  text-decoration: underline; 
+}

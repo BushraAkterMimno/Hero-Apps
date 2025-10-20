@@ -1,0 +1,543 @@
+[
+  {
+    "image": "https://i.postimg.cc/9FYvrX18/Lingua-Learn.png",
+    "title": "LinguaLearn",
+    "companyName": "PolyGlot",
+    "id": 1,
+    "description": "LinguaLearn allows users to learn over 15 languages through conversational lessons, games, and daily challenges. Each lesson emphasizes speaking, listening, reading, and writing skills. AI tutors correct pronunciation and grammar in real-time. The app provides cultural context and idiomatic expressions to make learning authentic. Progress tracking and personalized learning paths adapt to user proficiency. Gamification motivates learners with badges and achievements. Flashcards, quizzes, and interactive exercises reinforce vocabulary. Collaborative learning allows students to practice with peers globally. Offline mode ensures uninterrupted access to lessons. Notifications remind learners of upcoming lessons and streaks.",
+    "size": 105,
+    "reviews": 4100,
+    "ratingAvg": 5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcbD6OYAMvI5AU2S7v37vj6tkxzzniLgX_5zCq2tRNjm2GuVPVLRckkK8WFZMH6o2P2g&usqp=CAU",
+    "title": "EduMate",
+    "companyName": "LearnWorld Inc.",
+    "id": 2,
+    "description": "EduMate turns your smartphone into a virtual classroom. Learn from expert instructors, join live interactive sessions, and explore thousands of online courses. It covers topics like coding, design, marketing, and exam preparation. EduMate also provides AI-driven study recommendations, gamified learning, and personalized progress tracking. Whether you’re a student, a professional, or a lifelong learner, EduMate empowers you to grow your skills anytime, anywhere.",
+    "size": 72,
+    "reviews": 9800,
+    "ratingAvg": 4.4,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3800 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/a3/23/e4a32306-18c9-0091-f222-b4d1e255daa6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "title": "MusicWave",
+    "companyName": "SoundSphere Media",
+    "id": 3,
+    "description": "MusicWave gives you access to millions of songs, albums, and podcasts in high-quality audio. Its AI recommendation engine curates playlists tailored to your mood and activity. Enjoy seamless offline playback, live radio, and synchronized lyrics. MusicWave’s minimalist interface and adaptive equalizer provide the ultimate listening experience. It’s music made personal, immersive, and ad-free.",
+    "size": 115,
+    "reviews": 22000,
+    "ratingAvg": 4.8,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 1700 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 13200 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/4y4hpkYt/Brainy-Quest-The-Ultimate-Quiz-Logo-Design.jpg",
+    "title": "ChemQuiz",
+    "companyName": "EduTest",
+    "id": 4,
+    "description": "ChemQuiz offers daily chemistry challenges, periodic table tests, and global leaderboards. Perfect for students preparing for exams or improving their concepts.ChemQuiz offers daily chemistry challenges, periodic table tests, and global leaderboards. Perfect for students preparing for exams or improving their concepts.ChemQuiz offers daily chemistry challenges, periodic table tests, and global leaderboards. Perfect for students preparing for exams or improving their concepts.ChemQuiz offers daily chemistry challenges, periodic table tests, and global leaderboards. Perfect for students preparing for exams or improving their concepts.",
+    "size": 83,
+    "reviews": 1150,
+    "ratingAvg": 4.5,
+    "downloads": 560000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 480 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mRSShPD2t_5JRHcTUhI62lvVZAIwl-Jrxw&s",
+    "title": "ShopSmart",
+    "companyName": "eMart Global",
+    "id": 5,
+    "description": "ShopSmart brings a smarter way to shop online. Explore thousands of products across electronics, fashion, home essentials, and groceries — all in one app. Get exclusive discounts, instant delivery updates, and AI-powered price comparisons. The app offers multiple payment options, 24/7 customer support, and a rewards system that saves you money every time you shop.",
+    "size": 68,
+    "reviews": 17500,
+    "ratingAvg": 4.2,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 1100 },
+      { "name": "2 star", "count": 1450 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 5450 }
+    ]
+  },
+  {
+    "image": "https://coeurdeville.mu/sites/default/files/logos/SH_Logo%20%282%29-1.png",
+    "title": "StyleHub",
+    "companyName": "Trendify Global",
+    "id": 6,
+    "description": "StyleHub is your fashion assistant — discover trends, get outfit ideas, and shop the latest collections. Try virtual fitting using AR technology and receive daily style tips. Save favorite looks, follow top influencers, and find clothes that match your personality. With StyleHub, your wardrobe stays always on point.",
+    "size": 69,
+    "reviews": 9100,
+    "ratingAvg": 4.4,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/oHAuZz2vLAxztLt7q7Pw5LglHZexSC-8BmpC5BUic3AHf_Wglt6kLpUgpuomIgbEyg",
+    "title": "GameBoost",
+    "companyName": "TurboPlay Studio",
+    "id": 7,
+    "description": "GameBoost enhances your gaming experience by optimizing system performance in real time. It clears background processes, frees up RAM, and boosts frame rates for smoother gameplay. With one tap, GameBoost ensures your phone is ready for maximum gaming speed. It also includes temperature monitoring and battery-saving features to protect your device during long sessions.",
+    "size": 36,
+    "reviews": 5300,
+    "ratingAvg": 4.1,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 1700 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/6qfGGbHV/biology-cover-page-aesthetic.jpg",
+    "title": "BioScope",
+    "companyName": "LifeLearn",
+    "id": 8,
+    "description": "BioScope is an interactive biology app that makes learning about life sciences fun and engaging. It covers topics such as cells, anatomy, physiology, and ecosystems through 3D animations and simulations. Learners can explore organ systems, cell structures, and ecological interactions virtually. The app offers quizzes, flashcards, and practice exercises to reinforce understanding. AI tutors provide guidance on challenging concepts. Gamification motivates learners with rewards and achievements. Offline access ensures uninterrupted study sessions.",
+    "size": 80,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/c1/bf/cec1bf49-1fe6-893d-5e71-92ed0434e2af/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
+    "title": "WeatherPro",
+    "companyName": "SkyNet Labs",
+    "id": 9,
+    "description": "WeatherPro delivers precise, real-time weather forecasts for your location. Get detailed temperature, humidity, air quality, and wind data. Its radar maps and storm alerts help you plan your day safely. With dynamic visuals, hourly updates, and smart widgets, WeatherPro keeps you informed no matter where you are.",
+    "size": 50,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4350 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Hxkp2ptk/Cute-astronaut-walking-with-space-board-cartoon-vector-icon-illustration-science-technology-isolated.jpg",
+    "title": "AstroLearn",
+    "companyName": "CosmoEd",
+    "id": 10,
+    "description": "AstroLearn lets you explore space with interactive star maps, quizzes, and astronomy facts. Perfect for students who love stargazing and space science.AstroLearn lets you explore space with interactive star maps, quizzes, and astronomy facts. Perfect for students who love stargazing and space science.AstroLearn lets you explore space with interactive star maps, quizzes, and astronomy facts. Perfect for students who love stargazing and space science.",
+    "size": 102,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KMrGLzWSZRfhX84EN8am7_fjoN17wuxmLMw-A5sX9chF1V6oR2bjUN7T0Q19v7r3dBw6=w240-h480-rw",
+    "title": "PetCare",
+    "companyName": "FurFriends Co.",
+    "id": 11,
+    "description": "PetCare helps you take better care of your pets with reminders, diet tracking, and health monitoring. Manage vaccination schedules, vet appointments, and grooming plans in one place. The app also includes a pet social community to connect with other pet owners. Keep your furry friends happy and healthy with PetCare.",
+    "size": 47,
+    "reviews": 5200,
+    "ratingAvg": 4.3,
+    "downloads": "18M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/pTStJKTT/Eco-Logo-Sticker.jpg",
+    "title": "EcoLearn",
+    "companyName": "GreenMind",
+    "id": 12,
+    "description": "EcoLearn is an environmental education app promoting sustainability. It teaches climate change, recycling, and conservation through games and stories.EcoLearn is an environmental education app promoting sustainability. It teaches climate change, recycling, and conservation through games and stories.EcoLearn is an environmental education app promoting sustainability. It teaches climate change, recycling, and conservation through games and stories.EcoLearn is an environmental education app promoting sustainability. It teaches climate change, recycling, and conservation through games and stories.",
+    "size": 79,
+    "reviews": 920,
+    "ratingAvg": 4.7,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/yYKG4J0g/Widget-Finanze.jpg",
+    "title": "FinanceEdu",
+    "companyName": "MoneyMind",
+    "id": 13,
+    "description": "FinanceEdu simplifies financial literacy through interactive lessons, real-life case studies, and gamified modules. Topics include budgeting, saving, investing, taxes, and personal finance. Learners explore stocks, bonds, mutual funds, and digital finance tools. ",
+    "size": 95,
+    "reviews": 1420,
+    "ratingAvg": 4.6,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 650 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/yNRh8jzM/88f0252e-111d-498a-ac95-ebc4d0cbe9dd.jpg",
+    "title": "StatGuru",
+    "companyName": "MathPro",
+    "id": 14,
+    "description": "StatGuru helps learners master statistics through interactive graphs, datasets, and exercises. It covers probability, distributions, hypothesis testing, regression, and advanced statistics. The app includes step-by-step explanations, real-life examples, and practice problems. AI tutors provide guidance for complex concepts. Gamification motivates learners with achievements and leaderboards.",
+    "size": 86,
+    "reviews": 980,
+    "ratingAvg": 5,
+    "downloads": 530000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/K86qfRGq/Grammarly-Der-kostenlose-Grammatik-und-Rechtschreibpr-fer-f-r-englische-Texte.jpg",
+    "title": "WriteRight",
+    "companyName": "WordCraft",
+    "id": 15,
+    "description": "WriteRight is your AI writing assistant for improving grammar and clarity. From essays to research papers, it gives instant suggestions and readability scores.WriteRight is your AI writing assistant for improving grammar and clarity. From essays to research papers, it gives instant suggestions and readability scores.WriteRight is your AI writing assistant for improving grammar and clarity. From essays to research papers, it gives instant suggestions and readability scores.",
+    "size": 84,
+    "reviews": 2150,
+    "ratingAvg": 4.9,
+    "downloads": 1350000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1220 }
+    ]
+  },
+  {
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/0f/9a/0e0f9afe-b4e8-0f73-476a-23dec6aa61f8/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/1200x630wa.png",
+    "title": "NoteZen",
+    "companyName": "CreativeBytes",
+    "id": 16,
+    "description": "NoteZen is a simple yet powerful note-taking app designed for focus and creativity. Write, draw, or record your thoughts effortlessly. It supports markdown formatting, tags, and cross-device sync. With offline support and automatic backups, your ideas are always safe. Perfect for writers, students, and professionals who love organized thinking.",
+    "size": 29,
+    "reviews": 5100,
+    "ratingAvg": 4.4,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/6q1TR7sM/Harmony-of-Nature-and-Music.jpg",
+    "title": "MusicMind",
+    "companyName": "TuneEdu",
+    "id": 17,
+    "description": "MusicMind teaches the fundamentals of rhythm, scales, and melody. Learners can practice instruments, identify notes by ear, and improve their musical skills.MusicMind teaches the fundamentals of rhythm, scales, and melody. Learners can practice instruments, identify notes by ear, and improve their musical skills.MusicMind teaches the fundamentals of rhythm, scales, and melody. Learners can practice instruments, identify notes by ear, and improve their musical skills.MusicMind teaches the fundamentals of rhythm, scales, and melody. Learners can practice instruments, identify notes by ear, and improve their musical skills.",
+    "size": 77,
+    "reviews": 970,
+    "ratingAvg": 5,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 270 }
+    ]
+  },
+  {
+    "image": "https://miro.medium.com/v2/1*OBTp8ZcoIOtDC2jHnQzg7g.jpeg",
+    "title": "CryptoVault",
+    "companyName": "BlockVerse Labs",
+    "id": 18,
+    "description": "CryptoVault provides a secure and intuitive platform for managing cryptocurrencies. Track your portfolio, monitor market trends, and trade safely with built-in encryption. It supports Bitcoin, Ethereum, and 200+ altcoins. Get real-time price alerts, news updates, and data visualization tools. With biometric security and cold storage compatibility, your assets remain protected at all times.",
+    "size": 70,
+    "reviews": 8800,
+    "ratingAvg": 4.6,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEBB-vSUIKhzLOfPXyQ6c7epbYmWXeuGQ6OE7-OSPsEy7Fb9eH8JLXwHtWcTDZksIN2Y&usqp=CAU",
+    "title": "LearnLang",
+    "companyName": "EduNova Labs",
+    "id": 19,
+    "description": "LearnLang makes learning new languages fun and interactive. With over 20 languages available, including Spanish, French, Japanese, and German, you can master vocabulary, grammar, and pronunciation through engaging games and lessons. The app’s AI tutor adapts to your pace and provides instant feedback to improve your speaking and listening skills. Join global leaderboards and challenge friends to test your fluency progress.",
+    "size": 77,
+    "reviews": 13200,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/WGQPFLqOSIrL9hnrcsllHCn1leP9GVRE23pRuQYtRk-D6u8lsCU4EHfBtHTJRa8fQ5uh",
+    "title": "SleepWell",
+    "companyName": "CalmNest Ltd.",
+    "id": 20,
+    "description": "SleepWell helps you relax and improve sleep quality with guided meditations, relaxing sounds, and sleep tracking analytics. Choose from soothing soundscapes like rain, ocean, or forest to calm your mind. The app also includes breathing exercises, bedtime reminders, and a gentle wake-up alarm. SleepWell’s smart algorithm learns your patterns and adjusts your bedtime plan accordingly to ensure a peaceful night’s rest.",
+    "size": 55,
+    "reviews": 9900,
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 5300 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5DzIlYRrhvAW2IdWJqsVJ6j0r6XbbHOf1w&s",
+    "title": "FinancePlus",
+    "companyName": "MoneyMind Solutions",
+    "id": 21,
+    "description": "FinancePlus helps you take control of your money. Track your income, expenses, and budgets automatically. Set goals, get insights, and receive reminders to pay bills on time. It connects securely with your bank to provide real-time financial analytics. Visual reports make understanding your money easier than ever.",
+    "size": 64,
+    "reviews": 11000,
+    "ratingAvg": 4.6,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 550 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 5550 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/z7QKFNBFvcwIZXtqrK7lnyyp7nzpPGCF7gCg0FyZ81PXXivycC_4vLqzwQ1wLACZ7Jg",
+    "title": "Foodify",
+    "companyName": "FlavorTech Pvt Ltd.",
+    "id": 22,
+    "description": "Foodify is your ultimate food delivery and restaurant discovery app. Browse thousands of local restaurants, view menus with photos, and order your favorite meals in just a few taps. Track your delivery live, get exclusive discounts, and earn points with every order. Foodify also offers personalized recommendations based on your taste preferences and previous orders. From street food to fine dining, enjoy the best food experiences wherever you are.",
+    "size": 84,
+    "reviews": 14500,
+    "ratingAvg": 4.4,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/28/clean-my-android.jpg?crop=1xw:1.0xh;center,top",
+    "title": "CleanMate",
+    "companyName": "SystemCare Solutions",
+    "id": 23,
+    "description": "CleanMate keeps your phone fast and clutter-free. It automatically clears junk files, optimizes storage, and cools down the CPU during heavy usage. The app also features battery saver mode, privacy cleaner, and RAM booster for peak performance. With one-tap optimization, CleanMate ensures your phone stays smooth, secure, and efficient every day.",
+    "size": 39,
+    "reviews": 17400,
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 7300 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/SxYY6GxP/Download-premium-png-of-Tutor-studio-editable-logo-minimal-line-art-design-by-rachel-about-graduati.jpg",
+    "title": "TutorConnect",
+    "companyName": "LearnTogether",
+    "id": 24,
+    "description": "TutorConnect connects students with certified tutors for online study sessions. It supports one-on-one tutoring and group discussions across subjects.TutorConnect connects students with certified tutors for online study sessions. It supports one-on-one tutoring and group discussions across subjects.TutorConnect connects students with certified tutors for online study sessions. It supports one-on-one tutoring and group discussions across subjects.",
+    "size": 113,
+    "reviews": 3300,
+    "ratingAvg": 4.9,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 2210 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjovpliYdL5Txhxu3gzXl2oxVVnAzxg9kjHTzk0mMkWfueY3NupVqzkOl0ZgXY_zf4pk&usqp=CAU",
+    "title": "StreamZone",
+    "companyName": "VisionStream Media",
+    "id": 25,
+    "description": "StreamZone brings your favorite movies, TV shows, and documentaries in one sleek platform. Watch in HD or 4K with adaptive streaming technology. The app offers a huge content library, offline downloads, and personalized watchlists. StreamZone also includes parental control, subtitles in multiple languages, and AI-based recommendations for a better viewing experience.",
+    "size": 120,
+    "reviews": 23800,
+    "ratingAvg": 4.7,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 13400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tuBEDUMwkWptndJsDiCU2apVRWycdPTDUEKzhjAE3GItaMrHLUOJzscnTxregIl9cg",
+    "title": "DriveGuard",
+    "companyName": "SafeTrip Technologies",
+    "id": 26,
+    "description": "DriveGuard is your digital co-pilot for safe driving. It tracks your route, monitors speed, and detects sudden braking or collisions in real time. The app offers road safety tips, trip summaries, and AI-powered driver scoring. With emergency alerts and GPS tracking, DriveGuard ensures you and your loved ones stay protected on every journey.",
+    "size": 61,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://s.cafebazaar.ir/images/icons/com.bluescanner.docscanner-7993e441-94f9-496f-8219-8135ade69aa1_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize",
+    "title": "DocScanner",
+    "companyName": "SmartScan Systems",
+    "id": 27,
+    "description": "DocScanner turns your phone into a portable scanner. Scan documents, receipts, notes, and IDs instantly. The app’s advanced OCR technology extracts text accurately for editing or sharing. You can create high-quality PDFs, organize them in folders, and sync across devices. DocScanner is perfect for students, professionals, and anyone who wants paperless productivity.",
+    "size": 34,
+    "reviews": 8700,
+    "ratingAvg": 4.5,
+    "downloads": "2M",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4250 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/travelease-logo_878566-824.jpg",
+    "title": "TravelEase",
+    "companyName": "GoGlobal Pvt Ltd",
+    "id": 28,
+    "description": "TravelEase simplifies trip planning and booking. Find the best flights, hotels, and rental cars all in one place. Get personalized travel suggestions, live maps, and instant booking confirmations. The app offers 24/7 customer support, currency converter, and weather updates for your destinations. Travel smarter and stress-free with TravelEase.",
+    "size": 78,
+    "reviews": 9600,
+    "ratingAvg": 4.3,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://hotmart.s3.amazonaws.com/product_pictures/b4e3d156-0031-4276-9780-3c98dc38c2dd/Designsemnome2.jpg",
+    "title": "MindEase",
+    "companyName": "TranquilMind Studio",
+    "id": 29,
+    "description": "MindEase helps you manage stress, anxiety, and emotional balance through guided meditation, mindfulness exercises, and mood tracking. The app offers daily affirmations, breathing sessions, and calming soundscapes. Track your emotional health progress and get AI-driven suggestions to improve your well-being over time. MindEase is your daily pocket companion for mental peace.",
+    "size": 59,
+    "reviews": 9700,
+    "ratingAvg": 4.8,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  
+  {
+    "image": "https://i.postimg.cc/bJkjg7fH/Ciencias-planeta-logo-dignarse-icono-modelo-con-laboratorio-vector-ilustraci-n.jpg",
+    "title": "PhysicsLab",
+    "companyName": "SciLearn",
+    "id": 30,
+    "description": "PhysicsLab brings the wonders of physics to life through interactive simulations and experiments. Students can visualize complex concepts such as motion, forces, energy, and electromagnetism. The app offers virtual labs, so learners can experiment safely without physical constraints. Step-by-step guides explain fundamental theories, formulas, and real-world applications. Lessons include animations, videos, and interactive quizzes to reinforce understanding. PhysicsLab allows learners to adjust variables and observe outcomes, promoting critical thinking.",
+    "size": 110,
+    "reviews": 1850,
+    "ratingAvg": 4.9,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 750 }
+    ]
+  }
+]
