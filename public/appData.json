@@ -17,6 +17,7 @@
       { "name": "5 star", "count": 3050 }
     ]
   },
+
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcbD6OYAMvI5AU2S7v37vj6tkxzzniLgX_5zCq2tRNjm2GuVPVLRckkK8WFZMH6o2P2g&usqp=CAU",
     "title": "EduMate",
@@ -35,6 +36,7 @@
       { "name": "5 star", "count": 3800 }
     ]
   },
+
   {
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/a3/23/e4a32306-18c9-0091-f222-b4d1e255daa6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
     "title": "MusicWave",
@@ -53,6 +55,7 @@
       { "name": "5 star", "count": 13200 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/4y4hpkYt/Brainy-Quest-The-Ultimate-Quiz-Logo-Design.jpg",
     "title": "ChemQuiz",
@@ -71,6 +74,7 @@
       { "name": "5 star", "count": 480 }
     ]
   },
+
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mRSShPD2t_5JRHcTUhI62lvVZAIwl-Jrxw&s",
     "title": "ShopSmart",
@@ -89,6 +93,7 @@
       { "name": "5 star", "count": 5450 }
     ]
   },
+
   {
     "image": "https://coeurdeville.mu/sites/default/files/logos/SH_Logo%20%282%29-1.png",
     "title": "StyleHub",
@@ -107,6 +112,7 @@
       { "name": "5 star", "count": 3600 }
     ]
   },
+
   {
     "image": "https://play-lh.googleusercontent.com/oHAuZz2vLAxztLt7q7Pw5LglHZexSC-8BmpC5BUic3AHf_Wglt6kLpUgpuomIgbEyg",
     "title": "GameBoost",
@@ -125,6 +131,7 @@
       { "name": "5 star", "count": 1700 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/6qfGGbHV/biology-cover-page-aesthetic.jpg",
     "title": "BioScope",
@@ -143,6 +150,7 @@
       { "name": "5 star", "count": 320 }
     ]
   },
+
   {
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/c1/bf/cec1bf49-1fe6-893d-5e71-92ed0434e2af/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
     "title": "WeatherPro",
@@ -161,6 +169,7 @@
       { "name": "5 star", "count": 4350 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/Hxkp2ptk/Cute-astronaut-walking-with-space-board-cartoon-vector-icon-illustration-science-technology-isolated.jpg",
     "title": "AstroLearn",
@@ -179,6 +188,7 @@
       { "name": "5 star", "count": 300 }
     ]
   },
+
   {
     "image": "https://play-lh.googleusercontent.com/KMrGLzWSZRfhX84EN8am7_fjoN17wuxmLMw-A5sX9chF1V6oR2bjUN7T0Q19v7r3dBw6=w240-h480-rw",
     "title": "PetCare",
@@ -197,6 +207,7 @@
       { "name": "5 star", "count": 2000 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/pTStJKTT/Eco-Logo-Sticker.jpg",
     "title": "EcoLearn",
@@ -215,6 +226,7 @@
       { "name": "5 star", "count": 360 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/yYKG4J0g/Widget-Finanze.jpg",
     "title": "FinanceEdu",
@@ -233,6 +245,7 @@
       { "name": "5 star", "count": 650 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/yNRh8jzM/88f0252e-111d-498a-ac95-ebc4d0cbe9dd.jpg",
     "title": "StatGuru",
@@ -251,6 +264,7 @@
       { "name": "5 star", "count": 330 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/K86qfRGq/Grammarly-Der-kostenlose-Grammatik-und-Rechtschreibpr-fer-f-r-englische-Texte.jpg",
     "title": "WriteRight",
@@ -269,6 +283,7 @@
       { "name": "5 star", "count": 1220 }
     ]
   },
+
   {
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/0f/9a/0e0f9afe-b4e8-0f73-476a-23dec6aa61f8/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/1200x630wa.png",
     "title": "NoteZen",
@@ -287,6 +302,7 @@
       { "name": "5 star", "count": 2300 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/6q1TR7sM/Harmony-of-Nature-and-Music.jpg",
     "title": "MusicMind",
@@ -305,6 +321,7 @@
       { "name": "5 star", "count": 270 }
     ]
   },
+
   {
     "image": "https://miro.medium.com/v2/1*OBTp8ZcoIOtDC2jHnQzg7g.jpeg",
     "title": "CryptoVault",
@@ -323,6 +340,7 @@
       { "name": "5 star", "count": 4200 }
     ]
   },
+
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEBB-vSUIKhzLOfPXyQ6c7epbYmWXeuGQ6OE7-OSPsEy7Fb9eH8JLXwHtWcTDZksIN2Y&usqp=CAU",
     "title": "LearnLang",
@@ -341,6 +359,7 @@
       { "name": "5 star", "count": 7000 }
     ]
   },
+
   {
     "image": "https://play-lh.googleusercontent.com/WGQPFLqOSIrL9hnrcsllHCn1leP9GVRE23pRuQYtRk-D6u8lsCU4EHfBtHTJRa8fQ5uh",
     "title": "SleepWell",
@@ -359,6 +378,7 @@
       { "name": "5 star", "count": 5300 }
     ]
   },
+
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5DzIlYRrhvAW2IdWJqsVJ6j0r6XbbHOf1w&s",
     "title": "FinancePlus",
@@ -377,6 +397,7 @@
       { "name": "5 star", "count": 5550 }
     ]
   },
+
   {
     "image": "https://play-lh.googleusercontent.com/z7QKFNBFvcwIZXtqrK7lnyyp7nzpPGCF7gCg0FyZ81PXXivycC_4vLqzwQ1wLACZ7Jg",
     "title": "Foodify",
@@ -395,6 +416,7 @@
       { "name": "5 star", "count": 6800 }
     ]
   },
+
   {
     "image": "https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/28/clean-my-android.jpg?crop=1xw:1.0xh;center,top",
     "title": "CleanMate",
@@ -413,6 +435,7 @@
       { "name": "5 star", "count": 7300 }
     ]
   },
+
   {
     "image": "https://i.postimg.cc/SxYY6GxP/Download-premium-png-of-Tutor-studio-editable-logo-minimal-line-art-design-by-rachel-about-graduati.jpg",
     "title": "TutorConnect",
@@ -431,6 +454,7 @@
       { "name": "5 star", "count": 2210 }
     ]
   },
+
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjovpliYdL5Txhxu3gzXl2oxVVnAzxg9kjHTzk0mMkWfueY3NupVqzkOl0ZgXY_zf4pk&usqp=CAU",
     "title": "StreamZone",
@@ -449,6 +473,7 @@
       { "name": "5 star", "count": 13400 }
     ]
   },
+
   {
     "image": "https://play-lh.googleusercontent.com/tuBEDUMwkWptndJsDiCU2apVRWycdPTDUEKzhjAE3GItaMrHLUOJzscnTxregIl9cg",
     "title": "DriveGuard",
@@ -467,6 +492,7 @@
       { "name": "5 star", "count": 3900 }
     ]
   },
+
   {
     "image": "https://s.cafebazaar.ir/images/icons/com.bluescanner.docscanner-7993e441-94f9-496f-8219-8135ade69aa1_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize",
     "title": "DocScanner",
@@ -485,6 +511,7 @@
       { "name": "5 star", "count": 4250 }
     ]
   },
+
   {
     "image": "https://img.freepik.com/premium-vector/travelease-logo_878566-824.jpg",
     "title": "TravelEase",
@@ -503,6 +530,7 @@
       { "name": "5 star", "count": 4200 }
     ]
   },
+  
   {
     "image": "https://hotmart.s3.amazonaws.com/product_pictures/b4e3d156-0031-4276-9780-3c98dc38c2dd/Designsemnome2.jpg",
     "title": "MindEase",
