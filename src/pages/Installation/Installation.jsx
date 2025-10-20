@@ -11,7 +11,7 @@ const Installation = () => {
     const [installedApps, setInstalledApps] = useState([]);
     const [sortOrder, setSortOrder] = useState("");
     
-    //   load apps from local storage
+    
     useEffect(() => {
         const stored = JSON.parse(localStorage.getItem("installedApps")) || [];
         setInstalledApps(stored);
@@ -24,11 +24,10 @@ const Installation = () => {
         const updatedApps = installedApps.filter(app => app.id !== id);
         setInstalledApps(updatedApps);
         localStorage.setItem("installedApps", JSON.stringify(updatedApps));
+
         // toast
         toast.success(`${app.title} uninstalled successfully!`);
     };
-    
-    // sort
 
     const handleSortChange = (e) => {
         const value = e.target.value;
@@ -58,6 +57,7 @@ const Installation = () => {
                 <h1 className='text-3xl md:text-5xl font-bold text-[#001931]'>Your Installed Apps</h1>
                 <p className='text-base md:text-lg text-[#627382] mt-4'>Explore All Trending Apps on the Market developed by us</p>
             </div>
+
             {/* found apps number & sort by */}
             <div className='max-w-11/12 mx-auto pb-4 flex items-center justify-between'>
                 <p className='text-2xl font-semibold text-[#001931]'>({installedApps.length}) Apps Found</p>
@@ -83,10 +83,12 @@ const Installation = () => {
                             <div key={app.id}
                             className='flex items-center gap-2 md:gap-4 bg-white rounded-sm py-6 px-4 my-4'>
                                 <img src={app.image} alt="" className='w-20 h-20 rounded-lg' />
+
                                 {/* ratings, download, size */}
                                 <div>
                                     <h2 className='text-xl font-medium text-[#001931]'>{app.title}</h2>
                                     <div className='flex items-center gap-4 mt-4'>
+
                                         {/* downloads */}
                                         <div className='flex items-center gap-1'>
                                             <img src={downloadIcon} alt="" className='w-4 h-4'  />
@@ -102,24 +104,24 @@ const Installation = () => {
                                                 : app.downloads
                                             }</h2>
                                         </div>
+
                                         {/* ratings */}
                                         <div className='flex items-center gap-1'>
                                         <img src={ratingsIcon} alt="" className='w-4 h-4' />
                                         <h2  className='font-medium text-base text-[#FF8811]'>{app.ratingAvg}</h2>
                                         </div>
+
                                         {/* sizes */}
                                         <div>
                                             <p className='text-[#627382] text-base'>{app.size}</p>
                                         </div>
                                     </div>
                                 </div>
+
                                 {/* uninstall btn */}
-                                
                                 <button onClick={() => handleUninstall(app.id)}
                                 className='ml-auto md:py-3 md:px-4 py-2 px-3 rounded-sm font-semibold md:text-xl text-base text-white bg-[#00D390] hover:scale-105 cursor-pointer'>
                                     Uninstall</button>
-                                
-                                
                             </div>
                         ))}
                     </div>
