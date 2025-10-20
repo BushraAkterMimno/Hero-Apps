@@ -14,6 +14,7 @@ const Apps = () => {
   const appsToShow = searchTerm === "" ? allApps : filteredApps;
 
   return (
+    
     <div className="bg-[#E9E9E9] pb-20">
       <div className="max-w-11/12 mx-auto pt-20 pb-10 text-center">
         <h1 className="text-3xl md:text-5xl font-bold text-[#001931]">
