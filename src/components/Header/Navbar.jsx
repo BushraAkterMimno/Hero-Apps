@@ -13,6 +13,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 w-full bg-white shadow-md z-50">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-3 md:py-4">
+
         {/* Logo */}
         <Link
           to="/"
@@ -24,7 +25,7 @@ const Navbar = () => {
           </h2>
         </Link>
 
-        {/* Desktop Menu */}
+        
         <ul className="hidden md:flex items-center gap-8">
           {navLinks.map((link) => (
             <li key={link.path}>
@@ -44,7 +45,7 @@ const Navbar = () => {
           ))}
         </ul>
 
-        {/* GitHub Button */}
+        
         <button
           onClick={() =>
             window.open("https://github.com/BushraAkterMimno", "_blank")
