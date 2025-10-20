@@ -9,8 +9,6 @@ import AppDetail from '../pages/AppDetails/AppDetails';
 import AppError from '../pages/AppError/AppError';
 
 
-
-
 export const router = createBrowserRouter([
   {
     path: "/",
@@ -21,20 +19,20 @@ export const router = createBrowserRouter([
             index: true,
             loader: () => fetch("/appData.json").then(res => res.json()),
             element: <Home></Home>
-            
         },
+
         {
           path: '/apps',
           element: <Apps></Apps>,
           loader: () => fetch("/appData.json").then(res => res.json()),
         },
 
-        
         {
           path: '/installation',
           element:<Installation></Installation>,
           loader: () => fetch("/appData.json").then(res => res.json()),
         },
+
         {
           path: '/app/:id',
           element: <AppDetail></AppDetail>,
@@ -44,6 +42,4 @@ export const router = createBrowserRouter([
         
      ]
   },
-  
-
 ]);
