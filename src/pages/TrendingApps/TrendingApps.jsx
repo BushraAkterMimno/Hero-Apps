@@ -12,16 +12,15 @@ const TrendingApps = ({ data }) => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  // যদি navigation.state loading হয় তাহলে spinner দেখাবে
   if (navigation.state === 'loading') {
     return <Spinner />;
   }
 
   return (
     <div className="bg-[#E9E9E9]">
+
       {/* Trending Apps Section */}
       <div className="max-w-11/12 mx-auto py-12">
-        {/* Section Heading */}
         <div className="text-center">
           <h2 className="font-bold md:text-5xl text-4xl text-[#001931]">
             Trending Apps
@@ -40,7 +39,7 @@ const TrendingApps = ({ data }) => {
           </div>
         </div>
 
-        {/* Show All Button */}
+        
         <div className="flex justify-center mt-10">
           <button
             onClick={handleShowAll}
