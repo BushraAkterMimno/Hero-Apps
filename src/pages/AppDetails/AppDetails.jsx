@@ -15,7 +15,7 @@ const AppDetail = () => {
 
      const [isInstalled, setIsInstalled] = useState(false);
      
-    //   check already installed or not
+    //   check installed or not
     useEffect(() => {
         const installedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
         const alreadyInstalled = installedApps.some(item => item.id === app?.id);
@@ -27,7 +27,7 @@ const AppDetail = () => {
           <AppError></AppError>
         </> }
 
-    // install handle
+    
     const handleInstall = () => {
         if (isInstalled) return;
 
@@ -59,6 +59,7 @@ const AppDetail = () => {
                     <hr className='top-28 border-t-2 border-[#327382] absolute lg:w-2/3'/>
                     
                     <div className='flex  gap-6 mt-5 lg:mt-12'>
+
                         {/* downloads */}
                         <div>
                             <img src={downloadIcon} alt=""   />
@@ -75,6 +76,7 @@ const AppDetail = () => {
                                     : app.downloads
                             }</h2>
                         </div>
+
                         {/* ratings */}
                         <div>
                             <img src={ratingsIcon} alt="" />
@@ -82,6 +84,7 @@ const AppDetail = () => {
                             <h2  className='font-extrabold lg:text-4xl text-2xl text-[#001931]'>
                                 {app.ratingAvg}</h2>
                         </div>
+
                         {/* reviews */}
                         <div>
                             <img src={reviewsIcon} alt="" />
@@ -98,6 +101,7 @@ const AppDetail = () => {
                                     : app.reviews}</h2>
                         </div>
                     </div>
+
                     {/* install now btn */}
                     <button onClick={handleInstall}
                             disabled={isInstalled}
@@ -129,6 +133,7 @@ const AppDetail = () => {
                </ResponsiveContainer>
                <hr className='bottom-0 w-full border-t-2 border-[#327382] absolute'/>
             </div>
+            
             {/* description */}
             <div className='max-w-11/12 mx-auto pt-10 pb-16'>
                 <h2 className=' text-2xl font-semibold pb-6'>Description</h2>
